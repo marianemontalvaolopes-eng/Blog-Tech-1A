@@ -6,18 +6,7 @@ body {
 
 header {
     background-color: #b4cbc5; /* cor de fundo */
-    color: #013005; /* cor da fonte */
-    text-align: center; /* centraliza o texto horizontalmente */
-    max-width: 800px; /* define a largura máxima que o elemento pode ter */
-    margin: 0 auto; /* centraliza o bloco inteiro na tela */
-    padding: 16px; /* espaçamento interno entre a borda e o conteúdo */
-}
-
-h1 {
-    color: #17048f;
-}
-
-main {
+    c {
     background-color: #e2e7cc;
     color: #013005;
     max-width: 800px;
@@ -55,20 +44,14 @@ footer {
     margin: 0 auto; /* Centraliza o bloco inteiro na tela */
     padding: 20px; /* Cria um espaçamento interno para o fundo aparecer bem */
     font-size: 14px; /* Deixa o texto do rodapé um pouco menor e discreto */
+
+        color: #013005; /* cor da fonte */
+    text-align: center; /* centraliza o texto horizontalmente */
+    max-width: 800px; /* define a largura máxima que o elemento pode ter */
+    margin: 0 auto; /* centraliza o bloco inteiro na tela */
+    padding: 16px; /* espaçamento interno entre a borda e o conteúdo */
 }
-                <p class="artigo-autor">Dicas para Identificar Notícias Falsas</p>
-                <p class="texto-curto">Não leia só o título: Títulos chamativos costumam ser apelativos e não correspondem ao texto real.</p>
-                <p class="texto-curto">Confira a fonte: Veja se o autor e o veículo de comunicação existem e são respeitados.</p>
-                <p class="texto-curto">Cheque a data: Conteúdos antigos costumam ser republicados fora de contexto para parecerem atuais.</p>
-                <button>❤️<span>0</span></button>
-                <button>👍<span>0</span></button>
-            </div>
-        </article>
-    </main>
 
-    <footer>
-        <p>© 2026 Meu Blog Tech - Página web: do zero à primeira interação</p>
-    </footer>
-
-    <script src="script.js"></script>
-</body>
+h1 {
+    color: #17048f;
+}
