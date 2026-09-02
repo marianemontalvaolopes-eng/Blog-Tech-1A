@@ -45,11 +45,6 @@ footer {
     padding: 20px; /* Cria um espaçamento interno para o fundo aparecer bem */
     font-size: 14px; /* Deixa o texto do rodapé um pouco menor e discreto */
 
-        color: #013005; /* cor da fonte */
-    text-align: center; /* centraliza o texto horizontalmente */
-    max-width: 800px; /* define a largura máxima que o elemento pode ter */
-    margin: 0 auto; /* centraliza o bloco inteiro na tela */
-    padding: 16px; /* espaçamento interno entre a borda e o conteúdo */
 }
 
 h1 {
